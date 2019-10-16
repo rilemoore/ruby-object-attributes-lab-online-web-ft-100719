@@ -30,7 +30,7 @@ class Person
   end
   
   def job=(jobs_name)
-    @job
+    @job = jobs_name
   end
   
   def job
